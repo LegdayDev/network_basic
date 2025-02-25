@@ -14,3 +14,5 @@
 1. IPv4 기본구조
 2. L3 IP Packet
 3. Encapsulation / Decapsulation
+4. 패킷의 생성,전달,소멸
+5. 계층별 데이터 단
