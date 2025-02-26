@@ -16,3 +16,4 @@
 3. Encapsulation / Decapsulation
 4. 패킷의 생성,전달,소멸
 5. 계층별 데이터 단위
+6. TCP/IP 송수신 구조
